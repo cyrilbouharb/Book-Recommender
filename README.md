@@ -1,4 +1,4 @@
-# ML-Based Book Recommender System
+# Book Recommender System
 
 Recommendation systems are becoming increasingly essential in our fast-paced world. With so much to do in just 24 hours, people often rely on recommendation systems to save time and make better decisions. Whether it’s choosing a book, movie, or song, these systems personalize recommendations to suit individual tastes and preferences.
 
