@@ -70,9 +70,7 @@ You will need the following tools to run the project:
    ```
 
 3. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 4. **Run the Streamlit App:**
    ```bash
