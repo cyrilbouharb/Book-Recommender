@@ -43,7 +43,8 @@ The model is built using **Scikit-learn's KNeighbors algorithm**, which is an un
 3. **Distance Calculation:** For each user, the algorithm calculates the Euclidean distance between that user and all other users based on their book ratings.
 4. **Find Neighbors:** The algorithm sorts users based on the distance and identifies the top k neighbors.
 5. **Generate Recommendations:** The model recommends books that the top k neighbors have rated highly but the user has not yet rated.
-
+   
+In this project, Pickle is used for serializing and saving the trained model and essential data objects into files. By using pickle.dump(), we can store the machine learning model (model.pkl), book names (book_names.pkl), final ratings (final_rating.pkl), and the book pivot table (book_pivot.pkl). These serialized files allow for easy loading and reuse of the model and data without needing to retrain or preprocess the dataset every time the application is run, improving efficiency and streamlining deployment.
 ## How to Run the Project
 
 ### Prerequisites
