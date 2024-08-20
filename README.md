@@ -99,3 +99,7 @@ You can also run the project using Docker if you prefer containerization:
 
 3. **Access the App:**  
    Once the container is running, access the app by visiting `http://127.0.0.1:8501/`.
+
+
+https://github.com/user-attachments/assets/e746c137-8314-4dc3-bbea-b13d123beb82
+
